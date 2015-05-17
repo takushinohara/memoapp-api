@@ -1,11 +1,11 @@
 MemoApp-API
 ==========
 
-Spring Bootを利用した、[MemoApp-UI](https://github.com/t-shinohara/memoapp-ui)用のREST APIです。
+Spring Bootを利用した、[MemoApp-UI](https://github.com/takushinohara/memoapp-ui)用のREST APIです。
 
 ## Usage
 ```
-$ git clone https://github.com/t-shinohara/memoapp-api.git
+$ git clone https://github.com/takushinohara/memoapp-api.git
 $ cd memoapp-api
 $ mvn package
 $ cd target
